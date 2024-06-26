@@ -29,10 +29,11 @@ I'm a seasoned software engineering leader with 25+ years of experience in archi
 
 I've led and contributed to a wide range of projects throughout my career, including:
 
+*   Designing and building large scale production cloud based products and API/Data driven infrastructure
 *   Designing and building critical Google Cloud (GCP) data infrastructure for engineering, business, and product teams.
-*   Development of Google's internal BI infrastructure (Plx), used by all Alphabet engineering and product business teams.
+*   Development supporting Google's internal BI infrastructure (Plx), employed by all Alphabet engineering and product business teams.
 *   Designing and building Google's content serving and KMS/CMS infrastructure, a global system used by every Google product and customer daily.
-*   Large scale Designing and building Google's content serving and KMS/CMS infrastructure, a global system used by every Google product and customer daily.
+*   Building large scale Ad serving systems
 
 **Let's Connect!**
 
