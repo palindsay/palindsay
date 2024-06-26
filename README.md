@@ -18,21 +18,22 @@ I'm a seasoned software engineering leader with 25+ years of experience in archi
 
 *   **CEO/President:** SWArtisan, LLC (Current)
 *   **Director Cloud Platform and Architecture:** Capital Group
-*   **Technical Lead Manager:** Google (Concord BII Engineering, Plx Infrastructure, Knowledge/Content Management)
-*   **Lead/Staff Engineer:** Google (Plx Infrastructure)
+*   **Technical Lead Manager:** Google (GCP Concord BI Infrastructure)
+*   **Technical Lead:** Google/Alpabet BI Infrastructure (Google #Plx Team)
+*   **Technical Lead Engineer:** Google Adwords (Knowledge/Content Management Systems)
+*   **Technical Lead Engineer:** Google Adwords (Adsense for Audio)
+*   **President/CEO:** VerdureSoft, Inc.
+*   **Co-Founder/VP of eLabs:** eBuilt, Inc.
 
 **Projects**
 
 I've led and contributed to a wide range of projects throughout my career, including:
 
-*   Designing and building critical Google Cloud data infrastructure for engineering, business, and product teams.
-*   Leading the development of Google's internal BI infrastructure (Plx), used by all Alphabet engineering and product business teams.
-*   Designing and building Google's content serving and KMS/CMS infrastructure, a global system used by every Google customer daily.
+*   Designing and building critical Google Cloud (GCP) data infrastructure for engineering, business, and product teams.
+*   Development of Google's internal BI infrastructure (Plx), used by all Alphabet engineering and product business teams.
+*   Designing and building Google's content serving and KMS/CMS infrastructure, a global system used by every Google product and customer daily.
+*   Large scale Designing and building Google's content serving and KMS/CMS infrastructure, a global system used by every Google product and customer daily.
 
 **Let's Connect!**
 
-I'm always open to collaborating on exciting AI/ML projects. Feel free to reach out to me via [LinkedIn](Your LinkedIn Profile) or [Email](plindsay@gmail.com).
-
-**Fun Fact**
-
-When I'm not immersed in code or data, you can find me [Mention a hobby or interest].
+I'm always open to collaborating on exciting AI/ML projects. Feel free to reach out to me via [LinkedIn](https://www.linkdedin.com/in/plindsay) or [Email](plindsay@gmail.com).
