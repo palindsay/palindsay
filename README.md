@@ -8,11 +8,11 @@ I'm a seasoned software engineering leader with 25+ years of experience in archi
 
 **Skills**
 
-*   **Software Engineering:** C/C++, Java, GoLang, Python, C#.NET, XML/WSDL, DHTML/Javascript/Typescript, UML, OOA/OOD, CI/CD, QA, Security Operations, Github/Git/Mercurial, Systems alerting/monitoring/TSDB
-*   **Machine Learning:** DSPy, Pytorch, OpenAI, LangChain, LlamaIndex, llama.cpp, Ollama
+*   **Software Engineering:** C/C++, Java, GoLang, Python, Protobuf/JSON/XML/WSDL, DHTML/Javascript/Typescript, UML, OOA/OOD, CI/CD, QA, Security Operations, Github/Git/Mercurial, Systems alerting/monitoring/TSDB
+*   **Machine Learning:** RAG, DSPy, Pytorch, OpenAI, LangChain, LlamaIndex, llama.cpp, Ollama, OpenAI, Gemini
 *   **Data Management:** Big data/MLops, NoSQL (BigQuery, Map Reduce, BigTable, Flume (Dataflow), Key/Value stores), ETL/Workflow/Pipelines/Data Quality, Relational/SQL - GoogleSQL/Oracle/Postgresql/Mysql, VectorDb (pgvector, weaviate)
-*   **Cloud/Operating Systems:** Cloud Kubernetes, Docker, GCP/Google,GCE/, Knative. Tekton. Serverless, Debian, Ubuntu, Redhat/Fedora Linux, Android, MS Windows 10/11
-*   **Technical Management:** Player Coach, Agile/Spiral/Scrum Processes, Off/Near shore (India, Europe, Latin America), SDLC/QA
+*   **Cloud/Operating Systems:** Cloud/Local Kubernetes, Docker, GCP/Google,GCE, Knative. Tekton. Serverless, Debian, Ubuntu, Redhat/Fedora Linux, Android, MS Windows 10/11
+*   **Technical Management:** Player Coach, Agile/Spiral/Scrum Processes, Off/Near shore (India, Europe, Latin America), SDLC/QA, Product SDLC, UX/UI Process, A/B Experiment/Launch  Management
 
 **Experience**
 
@@ -37,4 +37,4 @@ I've led and contributed to a wide range of projects throughout my career, inclu
 
 **Let's Connect!**
 
-I'm always open to collaborating on exciting AI/ML projects. Feel free to reach out to me via [LinkedIn](https://www.linkdedin.com/in/plindsay) or [Email](plindsay@gmail.com).
+I'm always open to collaborating on exciting AI/ML projects. Feel free to reach out to me via [LinkedIn](https://www.linkdedin.com/in/plindsay) or [Email](plindsay@swartisan.com).
