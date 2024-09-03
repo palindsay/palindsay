@@ -1,5 +1,3 @@
----
-
 ## Phillip Lindsay
 
 **Software Engineering Leader**
