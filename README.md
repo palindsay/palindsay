@@ -11,7 +11,7 @@ I'm a highly experienced software engineering leader with a 25+ year track recor
 * **Software Engineering:** C/C++, Java, GoLang, Python, Protobuf/JSON/XML/WSDL, DHTML/Javascript/Typescript, UML, OOA/OOD, CI/CD, QA, Security Operations, Git (GitHub/GitLab), Mercurial, Systems alerting/monitoring/TSDB
 * **Machine Learning:** RAG, DSPy, Pytorch, OpenAI, LangChain, LlamaIndex, llama.cpp, Ollama, Gemini
 * **Data Management:** Big data/MLops, NoSQL (BigQuery, MapReduce, BigTable, Flume (Dataflow), Key/Value stores), ETL/Workflow/Pipelines/Data Quality, Relational/SQL (GoogleSQL/Oracle/PostgreSQL/MySQL), VectorDb (pgvector, weaviate)
-* **Cloud/Operating Systems:** Cloud/Local Kubernetes, Docker, GCP/Google Cloud Engine (GCE), Knative, Tekton, Serverless, Debian, Ubuntu, Redhat/Fedora Linux, Android, MS Windows 10/11
+* **Cloud/Operating Systems:** Cloud/Local Kubernetes, Cloud Security, Docker, Cybersecurity operations, GCP/Google Cloud Engine (GCE), Knative, Tekton, Serverless, Debian, Ubuntu, Redhat/Fedora Linux, Android, MS Windows 10/11
 * **Leadership & Management:** Player-Coach, Agile/Spiral/Scrum, Off/Nearshore Team Management (India, Europe, Latin America), SDLC/QA, Product SDLC, UX/UI Process, A/B Experimentation/Launch Management
 
 **Experience**
